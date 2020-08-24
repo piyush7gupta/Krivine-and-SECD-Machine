@@ -1,0 +1,2 @@
+main:
+	ocamlc code.ml
